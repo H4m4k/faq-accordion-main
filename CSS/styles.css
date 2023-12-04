@@ -1,0 +1,32 @@
+:root {
+	/* variables */
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+	width: 100%;
+}
+
+/* WEBSITE */
+
+body {
+	width: 100%;
+	margin: 0;
+}
+
+/* Atribution */
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
